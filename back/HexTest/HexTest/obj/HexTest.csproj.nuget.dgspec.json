@@ -1,0 +1,262 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest\\HexTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Application\\HexTest.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Application\\HexTest.Application.csproj",
+        "projectName": "HexTest.Application",
+        "projectPath": "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Application\\HexTest.Application.csproj",
+        "packagesPath": "C:\\Users\\Serhii\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Serhii\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.novavi.org/nuget": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Domain\\HexTest.Domain.csproj": {
+                "projectPath": "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Domain\\HexTest.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Domain\\HexTest.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Domain\\HexTest.Domain.csproj",
+        "projectName": "HexTest.Domain",
+        "projectPath": "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Domain\\HexTest.Domain.csproj",
+        "packagesPath": "C:\\Users\\Serhii\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Serhii\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.novavi.org/nuget": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Infrastructure\\HexTest.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Infrastructure\\HexTest.Infrastructure.csproj",
+        "projectName": "HexTest.Infrastructure",
+        "projectPath": "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Infrastructure\\HexTest.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Serhii\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Serhii\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.novavi.org/nuget": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Domain\\HexTest.Domain.csproj": {
+                "projectPath": "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Domain\\HexTest.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest\\HexTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest\\HexTest.csproj",
+        "projectName": "HexTest",
+        "projectPath": "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest\\HexTest.csproj",
+        "packagesPath": "C:\\Users\\Serhii\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Serhii\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.novavi.org/nuget": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Application\\HexTest.Application.csproj": {
+                "projectPath": "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Application\\HexTest.Application.csproj"
+              },
+              "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Infrastructure\\HexTest.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Infrastructure\\HexTest.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

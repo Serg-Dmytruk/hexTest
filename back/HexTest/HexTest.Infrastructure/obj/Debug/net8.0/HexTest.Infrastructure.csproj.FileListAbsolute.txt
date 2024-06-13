@@ -1,0 +1,15 @@
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Infrastructure\bin\Debug\net8.0\HexTest.Infrastructure.deps.json
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Infrastructure\bin\Debug\net8.0\HexTest.Infrastructure.dll
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Infrastructure\bin\Debug\net8.0\HexTest.Infrastructure.pdb
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Infrastructure\bin\Debug\net8.0\HexTest.Domain.dll
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Infrastructure\bin\Debug\net8.0\HexTest.Domain.pdb
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Infrastructure\obj\Debug\net8.0\HexTest.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Infrastructure\obj\Debug\net8.0\HexTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Infrastructure\obj\Debug\net8.0\HexTest.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Infrastructure\obj\Debug\net8.0\HexTest.Infrastructure.AssemblyInfo.cs
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Infrastructure\obj\Debug\net8.0\HexTest.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Infrastructure\obj\Debug\net8.0\HexTest.Infrastructure.csproj.CopyComplete
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Infrastructure\obj\Debug\net8.0\HexTest.Infrastructure.dll
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Infrastructure\obj\Debug\net8.0\refint\HexTest.Infrastructure.dll
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Infrastructure\obj\Debug\net8.0\HexTest.Infrastructure.pdb
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Infrastructure\obj\Debug\net8.0\ref\HexTest.Infrastructure.dll

@@ -1,0 +1,15 @@
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Application\bin\Debug\net8.0\HexTest.Application.deps.json
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Application\bin\Debug\net8.0\HexTest.Application.dll
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Application\bin\Debug\net8.0\HexTest.Application.pdb
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Application\bin\Debug\net8.0\HexTest.Domain.dll
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Application\bin\Debug\net8.0\HexTest.Domain.pdb
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Application\obj\Debug\net8.0\HexTest.Application.csproj.AssemblyReference.cache
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Application\obj\Debug\net8.0\HexTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Application\obj\Debug\net8.0\HexTest.Application.AssemblyInfoInputs.cache
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Application\obj\Debug\net8.0\HexTest.Application.AssemblyInfo.cs
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Application\obj\Debug\net8.0\HexTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Application\obj\Debug\net8.0\HexTest.Application.csproj.CopyComplete
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Application\obj\Debug\net8.0\HexTest.Application.dll
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Application\obj\Debug\net8.0\refint\HexTest.Application.dll
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Application\obj\Debug\net8.0\HexTest.Application.pdb
+C:\Users\Serhii\RiderProjects\HexTest\back\HexTest\HexTest.Application\obj\Debug\net8.0\ref\HexTest.Application.dll

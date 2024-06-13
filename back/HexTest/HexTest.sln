@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexTest", "HexTest\HexTest.csproj", "{D79AEFB8-84FC-4B5B-A0B3-9DA54F948080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexTest.Application", "HexTest.Application\HexTest.Application.csproj", "{8BB84C4F-06C5-4EDE-A325-585B9977EBEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexTest.Infrastructure", "HexTest.Infrastructure\HexTest.Infrastructure.csproj", "{1E4579B3-7AE4-4113-9ABC-072357813810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexTest.Domain", "HexTest.Domain\HexTest.Domain.csproj", "{A3AD85A7-5DDB-4235-BFBC-C944EA24AE77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D79AEFB8-84FC-4B5B-A0B3-9DA54F948080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79AEFB8-84FC-4B5B-A0B3-9DA54F948080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79AEFB8-84FC-4B5B-A0B3-9DA54F948080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79AEFB8-84FC-4B5B-A0B3-9DA54F948080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BB84C4F-06C5-4EDE-A325-585B9977EBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB84C4F-06C5-4EDE-A325-585B9977EBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB84C4F-06C5-4EDE-A325-585B9977EBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB84C4F-06C5-4EDE-A325-585B9977EBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E4579B3-7AE4-4113-9ABC-072357813810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4579B3-7AE4-4113-9ABC-072357813810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4579B3-7AE4-4113-9ABC-072357813810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4579B3-7AE4-4113-9ABC-072357813810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3AD85A7-5DDB-4235-BFBC-C944EA24AE77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AD85A7-5DDB-4235-BFBC-C944EA24AE77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AD85A7-5DDB-4235-BFBC-C944EA24AE77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AD85A7-5DDB-4235-BFBC-C944EA24AE77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

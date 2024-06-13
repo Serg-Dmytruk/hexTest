@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OjpFHQ2LXjvAJKDmYlm4MQFv25w0FE62PYyoT24WIrveJJNuxSd6CLPPPIetn259a9SnX+Nyfh+q5iw5iNTx7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Serhii\\RiderProjects\\HexTest\\back\\HexTest\\HexTest.Domain\\HexTest.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Serhii\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\Serhii\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Serhii\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
